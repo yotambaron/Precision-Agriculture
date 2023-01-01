@@ -1,0 +1,2 @@
+type,Acc,Log-loss,MCC,AUC,r_spear,r_pears,detected_drift_numbers,retraining_counter,Computation_Time,Alg_run,Detection
+classification,0.24509803921568626,1.3865356774891124,-0.016386629121817976,0.49731417403562733,-0.020464596611288355,-0.023687627113336232,0,0,28.141324758529663,adwin_uncertainty 0,adwin_uncertainty
